@@ -1,6 +1,8 @@
 package demo;
 
 public class Stack {
+
+    
     private Node head;
     private Node tail;
     private int size;
